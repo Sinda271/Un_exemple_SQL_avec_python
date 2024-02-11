@@ -35,9 +35,11 @@ Output:
     - Supprimez la restriction en affectant à la variable ***secure-file-priv*** une chaîne vide: ***secure-file-priv=""*** 
     - Redémarrez la connexion root
 
+8. Installez ODBC Driver for SQL Server https://docs.devart.com/odbc/mysql/windows.htm
+
 ### Python
 
-1. Accédez à un répertoire de travail de votre choix, ouvrez cmd dans ce répertoire et clonez le repository en exécutant la ligne de commande suivante : ***git clone https://github.com/Sinda271/SQL_example_with_python.git ***
+1. Accédez à un répertoire de travail de votre choix, ouvrez cmd dans ce répertoire et clonez le repository en exécutant la ligne de commande suivante : ***git clone https://github.com/Sinda271/Un_exemple_SQL_avec_python.git ***
 
 2. Accédez au dossier du repository: ***cd SQL_example_with_python***
 
