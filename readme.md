@@ -62,7 +62,7 @@ Output:
 <img src="images/replace_csv.png" width="800" /> 
 
 
-10. Dans le terminal exécutez: ***python .\TPsql.py *** 
+10. Dans le terminal exécutez: ***python .\TPsql.py*** 
 
 
 
