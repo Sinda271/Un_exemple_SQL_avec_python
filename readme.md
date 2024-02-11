@@ -7,18 +7,18 @@ Connectez-vous au serveur SQL via un script python, créez une table à partir d
 
 ### SQL server
 
-1. Télécharger le programme d'installation de MySQL https://dev.mysql.com/downloads/installer/
+1. Téléchargez le programme d'installation de MySQL https://dev.mysql.com/downloads/installer/
 <img src="images/install_mysql_server.png" width="800" /> 
 
 2. Procédez à l'installation (paramètres par défaut) et choisissez un mot de passe root
 <img src="images/sql_pwd.png" width="800" /> 
 
-3. Installez MySQL Workbench à partir de https://dev.mysql.com/downloads/workbench/ (laisser les paramètres par défaut)
+3. Installez MySQL Workbench à partir de https://dev.mysql.com/downloads/workbench/ (laissez les paramètres par défaut)
 
 4. Lancez MySQL Workbench puis démarrez la connexion root (tapez le mot de passe que vous avez créé lors de l'installation)
 <img src="images/launch_mysqlworkbench.png" width="800" /> 
 
-5. Vérifiez que le serveur SQL est activé (lancez PowerShell et exécutez la commande suivante: ***Get-service -Name 'mysql*' ***) \
+5. Vérifiez que le serveur SQL est activé (lancez PowerShell et exécutez la commande suivante: Get-service -Name 'mysql*') \
 Output:
 <img src="images/check_mysql_running.png" width="800" /> 
 
@@ -39,7 +39,7 @@ Output:
 
 ### Python
 
-1. Accédez à un répertoire de travail de votre choix, ouvrez cmd dans ce répertoire et clonez le repository en exécutant la ligne de commande suivante : ***git clone https://github.com/Sinda271/Un_exemple_SQL_avec_python.git ***
+1. Accédez à un répertoire de travail de votre choix, ouvrez cmd dans ce répertoire et clonez le repository en exécutant la ligne de commande suivante : ***git clone https://github.com/Sinda271/Un_exemple_SQL_avec_python.git***
 
 2. Accédez au dossier du repository: ***cd SQL_example_with_python***
 
